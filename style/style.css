@@ -27,7 +27,7 @@ p {
 *=========================================*/
 
 header {
-  background: #333;
+  background: red;
   position: fixed;
   left: 0;
   right: 0;
@@ -42,7 +42,7 @@ header nav a {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  font-size: 28px;
+  font-size: 20px;
   margin: 0 20px;
 }
 
@@ -209,11 +209,11 @@ header nav a {
 *
 *=========================================*/
 footer {
-  background: #333;
+  background: red;
   padding: 10px 30px;
   text-align: right;
 }
 
 footer img {
-  width: 40px;
+  width: 45px;
 }
